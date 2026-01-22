@@ -130,7 +130,7 @@ La instalación típica se ejecuta con el script `bootstrap.py` (pipeado a `sudo
 Ejemplo (admin `danrodcar`):
 
 ```bash
-curl -L https://tljh.jupyter.org/bootstrap.py | sudo python3 - --admin danrodcar
+curl -L https://tljh.jupyter.org/bootstrap.py | sudo python3 - --admin admin_name
 ```
 
 **Notas prácticas:**
